@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2020-06-29 20:51:41" Modified_Date="2022-01-25 23:14:50" Creator="Blake Mitchell" Comments="" ID="d9575cc61f4fd0bbfd45a813a53872ac">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2020-06-29 20:51:41" Modified_Date="2022-01-25 23:27:12" Creator="Blake Mitchell" Comments="" ID="18e8bd21ef0b9bc2155717dd268c7ddf">
   <Library_General_Settings>
     <Package_File_Name>SLO_Systems_lib_Utilities</Package_File_Name>
-    <Library_Version>1.0.0.5</Library_Version>
+    <Library_Version>1.0.0.6</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\..\..\..\..\vipm-builds\labview-utilities</Library_Output_Folder>
@@ -396,7 +396,7 @@
         <Path>libraries\Utilities\Move Panel to Origin.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3013A407CAE1C65620159C93186E56E2</GUID>
+      <GUID>6CF27A12D640E9385B8F542EB14E36E8</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -445,7 +445,7 @@
         <Path>libraries\Utilities\String to Validate.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F6C7619960CEB9C48FEA020D6EA4F780</GUID>
+      <GUID>47B58E45023E956F3D57E819A9952FE5</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
